@@ -1,4 +1,4 @@
-,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
+City ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
 0,ust-nera,64.57,143.2,32.68,92,100,0.98,RU,1602687722
 1,villa bruzual,9.33,-69.12,85.77,70,25,2.98,VE,1602687724
 2,ilulissat,69.22,-51.1,33.8,80,75,2.24,GL,1602687700
