@@ -39,39 +39,62 @@ Using the data from the list of cities, find vacation spots based on ideal weath
 
 ## Graphs
 * Temperature (F) vs. Latitude
+
 ![temp_lat](Images/lat_temp.png)
 
+
 * Humidity (%) vs. Latitude
+
 ![humidity_lat](Images/lat_humidity.png)
 
+
 * Cloudiness (%) vs. Latitude
+
 ![cloud_lat](Images/lat_cloudiness.png)
 
+
 * Wind Speed (mph) vs. Latitude
+
 ![lat_wind_speed](Images/lat_wind_speed.png)
 
+
 * Northern Hemisphere - Temperature (F) vs. Latitude
+
 ![north_lat_temp](Images/north_lat_temp.png)
 
+
 * Southern Hemisphere - Temperature (F) vs. Latitude
+
 ![south_lat_temp](Images/south_lat_temp.png)
 
+
 * Northern Hemisphere - Humidity (%) vs. Latitude
+
 ![north_lat_humidity](Images/north_lat_humidity.png)
 
+
 * Southern Hemisphere - Humidity (%) vs. Latitude
+
 ![south_lat_humidity](Images/south_lat_humidity.png)
 
+
 * Northern Hemisphere - Cloudiness (%) vs. Latitude
+
 ![north_lat_cloud](Images/north_lat_cloud.png)
 
+
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
+
 ![south_lat_cloud](Images/south_lat_cloud.png)
 
+
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
+
 ![north_lat_wind](Images/north_lat_wind.png)
 
+
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
+
 ![south_lat_wind](Images/south_lat_wind.png)
 
 
