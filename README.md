@@ -48,7 +48,7 @@ Using the data from the list of cities, find vacation spots based on ideal weath
 ![cloud_lat](Images/lat_cloudiness.png)
 
 * Wind Speed (mph) vs. Latitude
-![wind_lat](Images/lat_wind_speed.png)
+![lat_wind_speed](Images/lat_wind_speed.png)
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
 ![north_lat_temp](Images/north_lat_temp.png)
