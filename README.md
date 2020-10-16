@@ -79,7 +79,7 @@ Using the data from the list of cities, find vacation spots based on ideal weath
 * There is a clear correlation bertween Latitude and Temparture in both Northern and Southern hemispheres. The closer you get to the equator, the higher the temparature. 
 
 
-* There is no correlation between Latitude and Humidity in either hemispheres. However, it's interesting to note that in both hemispheres, a majority of cities had higher humidity. My sampling has a lower number of cities in the southern hemisphere but by looking at the line of regression, we see the y-intercept is around 63F. This could be a result of climate change but further tests and sampling over time is required to confirm this.
+* There is no correlation between Latitude and Humidity in either hemispheres. However, it's interesting to note that in both hemispheres, a majority of cities had higher humidity. This could be a result of climate change but further tests and sampling over time is required to confirm this. While my sampling has a lower number of cities in the southern hemisphere, looking at the line of regression, we see the y-intercept is around 63F.
 
 
 * There is no correlation between Latitude and Cloudiness in either hemispheres. 
